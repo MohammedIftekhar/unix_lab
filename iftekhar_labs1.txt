@@ -1,7 +1,6 @@
-vim has to modes 
+vim has two modes 
 1)insert mode (here u can insert any thing just as like normal text editor)
 2)command mode(here we use commands to perform any task )
-
 THE FOLLOWING ARE THE FEW COMMANDS:-
 -----------------------------------
 x -to delete the unwanted character 
@@ -31,5 +30,5 @@ o - opens a line below the cursor and start insert mode
 e- commands moves to the end of the word
 R -entes replace mode untill <ESC>is pressed
 ctrl-w to jump from one window to another
------------------------------------------------------------------------------------------------------ 
+--------------------------------------
  
