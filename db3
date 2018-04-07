@@ -1,0 +1,16 @@
+to check number of users logged in unix
+
+num=$(who -q)
+details=$(who -H)
+echo " the total number of users logged in : $num"
+echo" the details of logged in users :\n$details"
+
+
+
+vim user
+cs2016a120@user:~$ sh user
+ the total number of users logged in : cs2016a120
+# users=1
+user: 4: user: echo the details of logged in users :\nNAME     LINE         TIME             COMMENT
+cs2016a120 tty2         2018-04-07 08:39
+
